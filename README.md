@@ -1,4 +1,4 @@
-# Worlde-for-MuseScore
+# Wordle-for-MuseScore
 Now you can play the Wordle game in MuseScore 3.5! Makes your score engraving experience even more productive
 
 ![alt text](https://github.com/SnakeAmadeus/Worlde-for-MuseScore/blob/main/demo.jpg)
